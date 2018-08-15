@@ -1,0 +1,44 @@
+commit d64afbd64817732a4c9ec4ae65c8b80b1e4e2324
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 07:40:00 2018 -0400
+
+    se agrego un parrafo en index.html
+
+commit 05222ae0efe8112012827dac07dbddd59b2b8a70
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 07:31:37 2018 -0400
+
+    se agrego un parrafo en index.html
+
+commit 41987f44d02ebef6a79932fc992bbdc4d2ab1c09
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 07:30:08 2018 -0400
+
+    se creo la carpeta assets
+
+    y se agrego en ellas las carpetas img y su contenido
+    tambien la carpeta css y su contenido
+
+commit 3a9734d845a8a78cb8c149b8446b748bd7f6a4ec
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 07:16:08 2018 -0400
+
+    se agrego img1 y img2 en imagenes
+
+commit 0c66277dbcebef0256e4174507a8f85cab983d8f
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 07:11:57 2018 -0400
+
+    se agrego css/styles.css y js/main.js
+
+commit 28b9692adb96e44244cd8d3ddb6f93f3d1ceb827
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 07:02:19 2018 -0400
+
+    Commit cabio de nombre a README.md
+
+commit 6dd62c82e3f972ed63fc097e5f641eb4063bf674
+Author: Luis Zegarra <siul.pretorius@gmail.com>
+Date:   Tue Aug 14 06:50:41 2018 -0400
+
+    Commit Inicial

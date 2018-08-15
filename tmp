@@ -1,0 +1,41 @@
+$ git diff d64afbd64817732a4c9ec4ae65c8b80b1e4e2324 6dd62c82e3f972ed63fc097e5f641eb
+4063bf674
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index 97f0fb1..0000000
+--- a/README.md
++++ /dev/null
+@@ -1 +0,0 @@
+-# Practica 1
+\ No newline at end of file
+diff --git a/assets/css/styles.css b/assets/css/styles.css
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/assets/img/img1.jpg b/assets/img/img1.jpg
+deleted file mode 100644
+index ec6682e..0000000
+Binary files a/assets/img/img1.jpg and /dev/null differ
+diff --git a/assets/img/img2.jpg b/assets/img/img2.jpg
+deleted file mode 100644
+index ba316c3..0000000
+Binary files a/assets/img/img2.jpg and /dev/null differ
+diff --git a/index.html b/index.html
+deleted file mode 100644
+index 094bedf..0000000
+--- a/index.html
++++ /dev/null
+@@ -1,2 +0,0 @@
+-Git es una herramienta muy versatil, con facilidad de manejo
+-con una documentacion muy clara y completa.
+\ No newline at end of file
+diff --git a/js/main.js b/js/main.js
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/readme b/readme
+new file mode 100644
+index 0000000..97f0fb1
+--- /dev/null
++++ b/readme
+@@ -0,0 +1 @@
++# Practica 1
+\ No newline at end of file
